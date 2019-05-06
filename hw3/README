@@ -1,5 +1,13 @@
 For project 3, we created three functions in Haskell.
 
 The first:
-
+  skips through a list, and prints out every nth element, for all n <= the length of the list.
+  ie "Hello!" -> "Hello!", "el!", "l!", "l", "o", "!"
+  
+The second:
+  Finds all loal maxima in a numerical list
+   ie (1, 4, 2, 5, 3) -> (4, 5)
+   
+The third:
+ Takes a list of numbers 0-9 and prints a histogram with the occurences of each
 
