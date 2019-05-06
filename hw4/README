@@ -1,0 +1,2 @@
+For the fourth hw, I createe a simplified hangman game in haskell. It takes a random word from a text file supplied, and
+  prints the blank spaces. the user then guesses letters until they complete the word and the game ends.
