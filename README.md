@@ -9,7 +9,7 @@ Second Project:
     Implement a spell checker using Scheme and Racket, to learn how to use a functional programming language.
  
 Third Project:
-    Implement three functions in Haskell
+    Implement three functions in Haskell (skips, localMaxima, and histogram)
 
 Fourth Project:
     Implement a simplified hangman game using IO functionality of Haskell.
