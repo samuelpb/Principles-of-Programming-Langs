@@ -13,3 +13,6 @@ Third Project:
 
 Fourth Project:
     Implement a simplified hangman game using IO functionality of Haskell.
+
+Final Project:
+    My partner and I implemented Dijkstra's Algorithm in four languages and compared ease of implementation and runtime: Racket (Scheme), Haskell, Python, and C. In Haskell and Racket, there are built in Dijkstra functions, but we avoided using them to not take a shortcut.
